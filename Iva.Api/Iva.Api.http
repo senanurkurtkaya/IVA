@@ -1,0 +1,6 @@
+@Iva_Api_HostAddress = https://localhost:7022
+
+POST {{Iva_Api_HostAddress}}/api/ai/chat
+Content-Type: application/json
+
+"Merhaba ?va, nas?ls?n?"
